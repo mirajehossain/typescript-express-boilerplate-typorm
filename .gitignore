@@ -1,0 +1,20 @@
+# Editor ignore
+.idea/
+.vscodebuild/
+
+tmp/
+temp/
+
+# Logs
+*.log
+logs/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# dotenv environment variables file
+.env
+
+# Build directory
+dist
